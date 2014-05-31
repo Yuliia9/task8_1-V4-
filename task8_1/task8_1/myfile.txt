@@ -1,0 +1,96 @@
+
+tour : 
+Players: Dynamo   Kiev     Shakhtar Donetsk
+Winner: Dynamo   Kiev   
+
+	Tournament table 
+Dynamo   Kiev     - score: 3
+Shakhtar Donetsk  - score: 0
+Dnepr Dnepropetrovsk  - score: 0
+
+tour : 
+Players: Dynamo   Kiev     Dnepr Dnepropetrovsk
+Winner: Dynamo   Kiev   
+
+	Tournament table 
+Dynamo   Kiev     - score: 6
+Shakhtar Donetsk  - score: 0
+Dnepr Dnepropetrovsk  - score: 0
+
+tour : 
+Players: Shakhtar Donetsk  Dnepr Dnepropetrovsk
+Winner: Dnepr Dnepropetrovsk
+
+	Tournament table 
+Dynamo   Kiev     - score: 6
+Shakhtar Donetsk  - score: 0
+Dnepr Dnepropetrovsk  - score: 3
+
+tour : 
+Players: Dynamo   Kiev     Shakhtar Donetsk
+Winner: Shakhtar Donetsk
+
+	Tournament table 
+Dynamo   Kiev     - score: 0
+Shakhtar Donetsk  - score: 3
+Dnepr Dnepropetrovsk  - score: 0
+
+tour : 
+Players: Dynamo   Kiev     Dnepr Dnepropetrovsk
+Winner: Dynamo   Kiev   
+
+	Tournament table 
+Dynamo   Kiev     - score: 3
+Shakhtar Donetsk  - score: 3
+Dnepr Dnepropetrovsk  - score: 0
+
+tour : 
+Players: Shakhtar Donetsk  Dnepr Dnepropetrovsk
+Winner: Shakhtar Donetsk
+
+	Tournament table 
+Dynamo   Kiev     - score: 3
+Shakhtar Donetsk  - score: 6
+Dnepr Dnepropetrovsk  - score: 0
+
+tour : 
+Players: Dynamo   Kiev     Shakhtar Donetsk
+Winner: Shakhtar Donetsk
+tour : 
+Players: Dnepr Dnepropetrovsk  Metalist Kharkov
+Winner: Metalist Kharkov
+
+	Tournament table 
+Dynamo   Kiev     - score: 0
+Shakhtar Donetsk  - score: 3
+Dnepr Dnepropetrovsk  - score: 0
+Metalist Kharkov  - score: 3
+Chernomorets Odessa  - score: 0
+
+tour : 
+Players: Dynamo   Kiev     Shakhtar Donetsk
+Winner: Dynamo   Kiev   
+tour : 
+Players: Dnepr Dnepropetrovsk  Metalist Kharkov
+Winner: Dnepr Dnepropetrovsk
+
+	Tournament table 
+Dynamo   Kiev     - score: 3
+Shakhtar Donetsk  - score: 0
+Dnepr Dnepropetrovsk  - score: 3
+Metalist Kharkov  - score: 0
+Chernomorets Odessa  - score: 0
+
+tour : 
+Players: Dynamo   Kiev     Dnepr Dnepropetrovsk
+Winner: Dnepr Dnepropetrovsk
+tour : 
+Players: Shakhtar Donetsk  Metalist Kharkov
+Winner: Metalist Kharkov
+
+	Tournament table 
+Dynamo   Kiev     - score: 3
+Shakhtar Donetsk  - score: 0
+Dnepr Dnepropetrovsk  - score: 6
+Metalist Kharkov  - score: 3
+Chernomorets Odessa  - score: 0

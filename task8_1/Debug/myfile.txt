@@ -1,0 +1,27 @@
+
+tour : 
+Players: Dynamo   Kiev     Shakhtar Donetsk
+Winner: Shakhtar Donetsk
+
+	Tournament table 
+Dynamo   Kiev     - score: 0
+Shakhtar Donetsk  - score: 3
+Dnepr Dnepropetrovsk  - score: 0
+
+tour : 
+Players: Dynamo   Kiev     Dnepr Dnepropetrovsk
+Winner: Dnepr Dnepropetrovsk
+
+	Tournament table 
+Dynamo   Kiev     - score: 0
+Shakhtar Donetsk  - score: 3
+Dnepr Dnepropetrovsk  - score: 3
+
+tour : 
+Players: Shakhtar Donetsk  Dnepr Dnepropetrovsk
+Winner: Shakhtar Donetsk
+
+	Tournament table 
+Dynamo   Kiev     - score: 0
+Shakhtar Donetsk  - score: 6
+Dnepr Dnepropetrovsk  - score: 3
